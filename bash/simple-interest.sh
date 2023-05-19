@@ -1,4 +1,5 @@
 #!/bin/sh
+##
 ## Usage: simple-interest.sh 
 ##
 echo " Enter the principle value: "
